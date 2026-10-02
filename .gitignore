@@ -1,0 +1,9 @@
+# Public template only; use a ZIP download as the private working copy.
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/cache/
+.env
+.env.*
+*.key
+*.pem
+private/
