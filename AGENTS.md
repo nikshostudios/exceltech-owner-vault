@@ -20,3 +20,7 @@ Read `mi.md`, `Home.md`, then `AIOS/skills-map.md`. Use `AIOS/vault-map.md` for 
 - Recommend at most one new tool at a time, only to solve a confirmed task. Verify current vendor documentation before making capability or pricing claims. Do not install connectors just because they exist.
 - Maintain the interview checkpoint and save confirmed context during private-copy work. At session end, use `vault-save`; report actual saved paths and next step. Never pretend to have file or connector access.
 - Names in this public template are placeholders or generic roles. Match the owner's preferred address after asking.
+
+## Template maintenance
+
+Keep CLAUDE.md identical to AGENTS.md and .claude/skills files identical to their .agents/skills counterparts. Regular files make downloaded ZIPs work on Windows without symlink setup.

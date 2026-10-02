@@ -17,7 +17,7 @@ The core structure follows NST. These are clean templates, not copied company re
 - `Raw/docs/`, `Raw/transcripts/`, `Raw/clippings/`, `Raw/sessions/`: unchanged sources.
 - `Wiki/concepts/`, `Wiki/techniques/`, `Wiki/tools/`, `Wiki/people/`, `Wiki/sources/`: compiled notes. `index.md`, `hot.md` and `log.md` are maintained by vault-save.
 - `AIOS/`: assistant guidance, onboarding checkpoint and workflow index.
-- `.agents/skills/`: portable workspace skills. `.claude/skills/` links to them.
+- `.agents/skills/`: portable workspace skills. `.claude/skills/` contains identical copies for ZIP/Windows compatibility.
 - `Templates/`: note templates.
 
 Read only what the task needs. The owner does not need to memorise this map.
