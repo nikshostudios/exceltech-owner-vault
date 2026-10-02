@@ -6,6 +6,7 @@ generated-by: codex
 
 | Say this | Assistant reads |
 |---|---|
+| Grill me; interview me thoroughly | `.agents/skills/grill-me/SKILL.md` |
 | Help me set up my vault; resume the interview | `.agents/skills/owner-onboard/SKILL.md` |
 | Help me with my day; draft this reply | `.agents/skills/owner-assist/SKILL.md` |
 | Save what we decided; finish for today | `.agents/skills/vault-save/SKILL.md` |

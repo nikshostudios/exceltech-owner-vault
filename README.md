@@ -13,6 +13,10 @@ A simple starting place for running your day with an AI assistant. Same core str
 3. In your AI assistant, open the same folder as a workspace. Nikhil can help with this one-time setup. A chat without access to the folder cannot update your vault automatically.
 4. Copy the prompt in [START-HERE.md](START-HERE.md) into the assistant.
 
+Alternatively, paste the master prompt in START-HERE.md into an agent with web and file access. It can download the working copy for you.
+
+The standalone **Grill Me** skill is included locally for both Codex and Claude. No separate plugin, API key or global installation is required.
+
 You do not need to learn the folders or remember commands. Start by saying what you need help with. The assistant will interview you one question at a time, help with one real task, and save confirmed context for next time.
 
 ## What you can say

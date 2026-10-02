@@ -10,6 +10,8 @@ generated-by: codex
 
 Read AGENTS.md, mi.md, Home.md and AIOS/onboarding.md. Check private working-copy location before saving business details. Resume from the checkpoint; never restart a completed interview. Explain: “We will take this one task at a time. You can stop and come back whenever you like.”
 
+Read the sibling grill-me/SKILL.md and use it to conduct the interview.
+
 ## Interview with persistence, not pressure
 
 Ask ONE question at a time. Begin with yesterday's actual work, from first task to finish. Follow each concrete example until the workflow is understood. Do not dump a questionnaire, praise every answer or make the owner learn technical vocabulary. Let them skip and revisit a branch.

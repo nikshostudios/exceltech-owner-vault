@@ -4,7 +4,7 @@ generated-by: codex
 
 # Assistant entry point
 
-Read `mi.md`, `Home.md`, then `AIOS/skills-map.md`. Use `AIOS/vault-map.md` for orientation. If onboarding is incomplete, read `.agents/skills/owner-onboard/SKILL.md` and begin or resume the interview. Ordinary language is sufficient; never require slash commands.
+Read `mi.md`, `Home.md`, then `AIOS/skills-map.md`. Use `AIOS/vault-map.md` for orientation. If onboarding is incomplete, read `.agents/skills/owner-onboard/SKILL.md` and `.agents/skills/grill-me/SKILL.md`, then begin or resume the interview. Ordinary language is sufficient; never require slash commands.
 
 ## Working rules
 
